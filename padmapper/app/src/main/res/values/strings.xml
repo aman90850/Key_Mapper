@@ -1,0 +1,3 @@
+<resources>
+    <string name="a11y_desc">Used only to receive gamepad buttons and perform touch gestures you mapped.</string>
+</resources>
